@@ -96,9 +96,3 @@ const verLaranja = () => {
 - Na estilização foi usado um pouco de aninhamento para manter o código limpo e direfente das outras páginas aqui foi necessário que o botão de *SAIBA MAIS* recebesse uma id para diferenciar dos botões que alteram a cor do copo no mostuário.
 - No estilo do círculo colorido ao fundo do copo foi utilizado `position` e `z-index`.
 - Como a imagem do copo já estava contida dentro da *div* do círculo não foi necessário utilizar position para puxar a imagem para o canto.
-
-
-
-
-#### Updates
-- Adicionado um texto `alt` em todas as imagens do site.
